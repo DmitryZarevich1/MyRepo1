@@ -6,3 +6,4 @@ public interface militaryTrans {
 	String type();
 
 }
+//d/fv,sd'v.'sd
