@@ -2,9 +2,9 @@ package stepic2;
 
 public class CivilT implements civilTrans {
 	
-	int maxSpeed;
-	String model;
-	String type;
+	int maxSpeed=234;
+	String model="qwer";
+	String type="qwerg";
 	
 	public CivilT(String model,int maxSpeed,String type) {
 		this.model = model;
