@@ -6,3 +6,4 @@ public interface civilTrans {
 	String type();
 
 }
+//аквавававава

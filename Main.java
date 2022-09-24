@@ -23,8 +23,7 @@ public class Main {
 		System.out.println();
 		System.out.println(cT);
 		System.out.println();
-		System.out.println(cT1);
-		//dfldlfldfkldlfldflk
+		System.out.println(cT1);//вававававаыы
 		
 
 	}

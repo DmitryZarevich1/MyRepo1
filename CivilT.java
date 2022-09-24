@@ -29,5 +29,4 @@ public class CivilT implements civilTrans {
 		return "Тип транспорта: "+type+"\n"+"Модель: "+model+"\n"+"Максимальная скорость: "+maxSpeed;
 	}
 
-}
-//ds;lfds;flv'
+}//вмввавававава

@@ -27,6 +27,5 @@ public class MillT implements militaryTrans {
 	
 	public String toString() {
 		return "Тип транспорта: "+type+"\n"+"Модель: "+model+"\n"+"Максимальная скорость: "+maxSpeed;
-	}
-//d;lfvmd;'v,'
+	}//ввававававава
 }
